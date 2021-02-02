@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rohinirao2112@gmail.com
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I maybe rewatching The Office again
-- :computer: Also check out: instagram.com/rookeecoders
+- :computer: Also check out: https://www.instagram.com/rookeecoders/
 
 <br />
 
