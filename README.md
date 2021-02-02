@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RohiniRG)
 
 [linkedin]: https://www.linkedin.com/in/rohini-rao-39ab291a4/
 [twitter]: https://twitter.com/rohinirg_
