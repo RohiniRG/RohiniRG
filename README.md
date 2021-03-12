@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Eyantra Nirikshak Bot Project
+- 🔭 I’m currently a participant of GSSoC'21
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
 - 💬 Ask me about Open CV and Python
