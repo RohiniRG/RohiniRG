@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Open CV and Python
 - 📫 How to reach me: rohinirao2112@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I maybe rewatching The Office again
+- ⚡ Fun fact: I may probably be rewatching The Office again
 - :computer: Also check out: https://www.instagram.com/rookeecoders/
 
 <br />
