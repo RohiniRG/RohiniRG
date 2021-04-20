@@ -1,9 +1,11 @@
 ### Hi there! I'm Rohini Rao 👋
 
-
+<!--
 Here are some ideas to get you started:
 -->
+
 <b>
+  
 - 🔭 I’m currently a participant of GSSoC'21
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
