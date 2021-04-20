@@ -1,11 +1,9 @@
 ### Hi there! I'm Rohini Rao 👋
 
-<!--
-**iamakkkhil/iamakkkhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-
+<b>
 - 🔭 I’m currently a participant of GSSoC'21
 - 🌱 I’m currently learning Machine learning and Open CV
 - 👯 I’m looking to collaborate on Basic ML Projects
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I may probably be rewatching The Office again
 - :computer: Also check out: https://www.instagram.com/rookeecoders/
+<b/>
 
 <br />
 
