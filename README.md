@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 <br /> 
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>
-  
+   <img src="https://komarev.com/ghpvc/?username=RohiniRG&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</p>  
