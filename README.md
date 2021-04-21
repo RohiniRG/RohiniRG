@@ -38,3 +38,10 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/rohini-rao-39ab291a4/
 [twitter]: https://twitter.com/rooohini_
 [instagram]: https://www.instagram.com/shades_n_strokes__/
+
+<br /> 
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=iamakkkhil&label=PROFILE+VIEWS&style=flat-square&color=blue")
+</p>
+  
