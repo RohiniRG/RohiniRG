@@ -6,11 +6,11 @@ Here are some ideas to get you started:
 
 <b>
   
-- 🔭 I’m currently a participant of GSSoC'21
-- 🌱 I’m currently learning Machine learning and Open CV
-- 👯 I’m looking to collaborate on Basic ML Projects
+- 🔭 I’m currently a Mentor for LGM-SOC
+- 🌱 I’m currently learning Machine learning, OpenCV and Flutter
+- 👯 I’m looking to collaborate on Basic ML and Flutter Projects
 - 💬 Ask me about Open CV and Python
-- 📫 How to reach me: rohinirao2112@gmail.com
+- 📫 How to reach me: rohinirao2112@gmail.com or any of my socials
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I may probably be rewatching The Office again
 - :computer: Also check out: https://www.instagram.com/rookeecoders/
