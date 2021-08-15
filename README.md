@@ -1,22 +1,26 @@
-### Hi there! I'm Rohini Rao 👋
+<h1 align="center">Hi there! I'm Rohini Rao 👋 </h1>
+
+<img class="fit-picture" align="right"
+     src="https://i.imgur.com/iigzIrT.png">
+<h1 align="center">About me! 🚀</h1>
 
 <!--
 Here are some ideas to get you started:
 -->
 
-<b>
+<h3>
   
-- 🔭 I’m currently a Mentor for LGM-SOC
-- 🌱 I’m currently learning Machine learning, OpenCV and Flutter
-- 👯 I’m looking to collaborate on Basic ML and Flutter Projects
-- 💬 Ask me about Open CV and Python
-- 📫 How to reach me: rohinirao2112@gmail.com or any of my socials
+- 🔭 I’m currently a GDSC Lead '21
+- 🌱 I’m currently learning Machine learning, Flutter and Django
+- 👯 I’m looking to collaborate on ML/OpenCV, Flutter Projects and anything Python!
+- 💬 Ask me about anything Python!  
+- 📫 How to reach me: On any of my socials
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I may probably be rewatching The Office again
-- :computer: Also check out: https://www.instagram.com/rookeecoders/
-<b/>
-
+- ⚡ Fun fact: I am a professional Bharatanatyam Dancer
+- ✍🏼 Checkout my blog: [here](https://rohinirg.hashnode.dev/)
+</h3>
 <br />
+<br>
 
 
 ---
