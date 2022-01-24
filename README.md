@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a GDSC Lead '21
-- 🌱 I’m currently learning Machine learning, Flutter and Django
-- 👯 I’m looking to collaborate on ML/OpenCV, Flutter Projects and anything Python!
-- 💬 Ask me about anything Python!  
+- 🔭 I’m currently a Flutter Intern
+- 🌱 I’m currently learning Blockchain and Web3
+- 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
+- 💬 Ask me about anything Python and Flutter!  
 - 📫 How to reach me: On any of my socials
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am a professional Bharatanatyam Dancer
