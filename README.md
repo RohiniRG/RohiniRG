@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 <h3>
   
-- 🔭 I’m currently a Flutter Intern
-- 🌱 I’m currently learning Blockchain and Web3
-- 👯 I’m looking to collaborate on projects based on Flutter, OpenCV, and Django!
+- 🔭 I’m currently a Software Engineering Intern
+- 🌱 I’m currently learning Django and Blockchain
+- 👯 I’m looking to collaborate on projects based on Flutter, Blockchain, and Django!
 - 💬 Ask me about anything Python and Flutter!  
 - 📫 How to reach me: On any of my socials
 - 😄 Pronouns: She/her
