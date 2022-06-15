@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <br>     
      
      
-![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohiniRG&show_icons=true&theme=dark)      
+![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohiniRG&show_icons=true&theme=dark&count_private=true)      
      
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohiniRG&layout=compact&theme=dark)](https://github.com/RohiniRG/github-readme-stats)
 
